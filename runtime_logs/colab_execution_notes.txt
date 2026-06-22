@@ -1,0 +1,18 @@
+Platform: Google Colab CPU runtime
+Python Version: 3.x
+HE Library: TenSEAL
+Dataset: UCI Heart Disease dataset
+Evaluation: Full held-out test set
+Test Samples: 60
+Date of Reported Full-Test Run: June 2026
+
+Reported Metrics
+Encrypted Accuracy: 83.33%
+Plaintext ROC-AUC: 0.9498
+Encrypted ROC-AUC: 0.9495
+Average Encryption Time: 0.01095 s
+Average Encrypted Inference Time: 0.03382 s
+Total Secure Processing Time: 0.04477 s
+
+Reproducibility Note:
+Runtime values may vary across Google Colab sessions and allocated CPU resources.
